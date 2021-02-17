@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Foto de un Husky mirando desconcertado a cámara](https://cdn.sentidoanimal.es/wp-content/uploads/2020/01/HuskySiberiano.jpeg)
